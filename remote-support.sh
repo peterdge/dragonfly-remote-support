@@ -1,2 +1,2 @@
-printf "echo 'hello world' >> ~/hello-world.txt\n"
+printf "echo 'hello world' >> ~/hello-world.txt"
 echo 'hello world' >> ~/hello-world.txt
